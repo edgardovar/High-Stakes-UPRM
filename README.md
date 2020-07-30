@@ -1,5 +1,6 @@
 # High Stakes UPRM
 
+We aim to provide Hyper-localized environmental data for catastrophe alert.
 
 ## Contents
 
@@ -40,7 +41,7 @@
 
 ## Long description
 
-
+[More detail is available here](LONGDESC.md)
 
 ## Project roadmap
 ![RoadmapJune](images/RoadmapV2-June.jpg)
@@ -134,3 +135,4 @@ npx eslint sample-file.js
 
 ## Acknowledgments
 
+[Based on Code and Response Template](https://github.com/Code-and-Response/Project-Sample)
