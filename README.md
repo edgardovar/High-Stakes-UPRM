@@ -43,6 +43,12 @@
 
 
 ## Project roadmap
+![RoadmapJune](images/RoadmapV2-June.jpg)
+![RoadmapJuly](images/RoadmapV2-July.jpg)
+![RoadmapSoftware](images/RoadmapV2-FutureSoftware.jpg)
+![RoadmapHardware](images/RoadmapV2-FutureHardware.jpg)
+
+
 
 
 
