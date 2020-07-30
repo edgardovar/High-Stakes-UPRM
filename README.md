@@ -40,7 +40,7 @@
 
 ## Long description
 
-
+[More detail is available here](LONGDESC.md)
 
 ## Project roadmap
 ![RoadmapJune](images/RoadmapV2-June.jpg)
